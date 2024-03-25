@@ -1,0 +1,4 @@
+In this file I am going to do review in PR.
+First create a branch named branch-2. Add a file in that file and push to remote.
+Next in the files changes section of PR create a review and see how to work with that.
+Come to local repo follow those things said in review and push to remote. Rerviewer will review and approve.
