@@ -1,9 +1,1 @@
 In this branch I want to test what if I merege branch in local and push It to remote.
-
-I have done that. I directly mereged branch-3 to master in my local machine. (master <-- branch-3)
-When I pushed it to github remote, the changes to master branch showed up but there is no clue how it's done.
-What I mean is that, there is no sign of branch-3 in remote repo. No where in the github tree there is branch-3. It's like just 
-some changes are done to master by owner and pushed to remote that's it. So this what happens where me create a branch in local 
-machine and merge it in local. We cannot see any clue of branch-3 which makes diffcult to other team mates how it's done.
-So follow the genral path of makeing changes to master code. create a branch, commit, push, make PR, review, reslove confilcts and merege.
-This shows how changes have been made. After work is done delete the branch.
